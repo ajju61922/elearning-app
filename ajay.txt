@@ -1,3 +1,11 @@
 new market
  how r u 
 Hello
+<<<<<<< Updated upstream
+
+//bug 2
+//finish
+=======
+//bug--1
+//finall bug 
+>>>>>>> Stashed changes
